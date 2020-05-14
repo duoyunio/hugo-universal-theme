@@ -1,5 +1,5 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseurl = "https://serverlessx.com"
+title = "ServerlessX | Serverless中文社区"
 theme = "hugo-universal-theme"
 themesDir = "../.."
 languageCode = "en-us"
